@@ -1,0 +1,1 @@
+move images folder to bin AFTER importing in eclipse
